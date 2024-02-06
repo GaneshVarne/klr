@@ -1,0 +1,25 @@
+/*Basic elements*/
+h1
+{
+  font-size: 48px;
+}
+body
+{
+  background-image: url("https://marketplace.canva.com/EAFCO6pfthY/1/0/1600w/canva-blue-green-watercolor-linktree-background-F2CyNS5sQdM.jpg");
+  background-size: cover;
+  background-blend-mode: lighten;
+  font-family: Geneva, Verdana, sans-serif;
+  margin: 5%;
+}
+#ima
+{ 
+
+  float: right;   
+  height: 250px;width: 250px;
+  border-radius: 350px;  
+}
+strong
+{
+  font-size: 42px;
+  font-family: Times, serif;
+}

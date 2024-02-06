@@ -1,0 +1,17 @@
+h1
+{
+ text-align: center;-moz-text-size-adjust: 100%;
+}
+body
+{
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3
+{
+    background-color: lightblue;
+}
+.tc
+{
+    text-align: center;
+}
